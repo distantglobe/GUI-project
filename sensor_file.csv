@@ -1,0 +1,11 @@
+﻿channel name,Identifier,port number,freq lo,freq hi,coher,averages
+S11,S,0,0,0,19,5
+S07,S,3,0,0,0,1
+S13,S,0,0,0,0,1
+S12,S,3,0,0,0,1
+S15,S,0,0,0,0,1
+S50,S,0,0,0,19,5
+S06,S,0,0,0,0,5
+C06,C,0,0,0,0,5
+A06,A,0,0,0,0,5
+B06,B,0,0,0,0,5
